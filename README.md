@@ -7,3 +7,4 @@
 - [Accessibility](https://github.com/reboottime/UI-UX-For-SPAs/issues/8)
   - [ARIA (Accessible Rich Internet Applications) attributes](https://github.com/reboottime/UI-UX-For-SPAs/issues/8#issuecomment-2156042964)
   - [Keyboard Navigation](https://github.com/reboottime/UI-UX-For-SPAs/issues/8#issuecomment-2196789795s)
+- [[UX] Delete Action for Enterprise Application](https://github.com/reboottime/UI-UX-For-SPAs/issues/10)
